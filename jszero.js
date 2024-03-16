@@ -169,5 +169,30 @@ for (let i = 1; i <= 100; i++) {
 }
 
 console.log("Tổng các số nguyên tố từ 1 đến 100 là: " + sum);
+/*OBJECT
+{
+    key1: value1,
+    key2: value2,
+    key3: value3,
+    ...
+  }
+// Objec rỗng không có thuộc tính nào
+let myComputer = {};
 
+// Hoặc sử dụng hàm khởi tạo object
+let yourComputer = new Object();
+tính.
+Sử dụng toán tử ngoặc vuông [], bên trong là tên thuộc tính
+Khi key chứa dấu cách, hoặc các ký tự đặc biệt khác thì bạn bắt buộc phải sử dụng toán tử [].
+Để duyệt tất cả các thuộc tính của object, bạn có thể sử dụng vòng lặp for...in
+  */
+/* const person = {
+  name: 'John Doe',
+  age: 30,
+  city: 'New York'
+};
+
+for (let prop in person) {
+  console.log(prop + ': ' + person[prop]);
+} */
 
